@@ -1,2 +1,1 @@
 # symmetrical-goggles
-Project Alpha
